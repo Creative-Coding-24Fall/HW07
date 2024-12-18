@@ -1,60 +1,28 @@
-# p5.js Template
+The text is a selected paragraph from poet Jorge Luis Borges‘s work What Can I Hold You With from Two English Poems, Verse II, 1934. The whole poem:
 
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
+What can I hold you with?
+I offer you lean streets, desperate sunsets, the
+moon of the jagged suburbs.
+I offer you the bitterness of a man who has looked
+long and long at the lonely moon.
+I offer you my ancestors, my dead men, the ghosts
+that living men have honoured in bronze.
+I offer you whatever insight my books may hold,
+whatever manliness or humour my life.
+I offer you the loyalty of a man who has never
+been loyal.
+I offer you that kernel of myself that I have saved,
+somehow-the central heart that deals not
+in words, traffics not with dreams, and is
+untouched by time, by joy, by adversities.
+I offer you the memory of a yellow rose seen at
+sunset, years before you were born.
+I offer you explanations of yourself, theories about
+yourself, authentic and surprising news of
+yourself.
+I can give you my loneliness, my darkness, the
+hunger of my heart; I am trying to bribe you
+with uncertainty, with danger, with defeat.
 
 
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+Since the part I selescted has yellow rose as a symbol. I thought about making a flower but don't know how. I remembered there is a function called Rose Curve. That's how I had the idea for this project.
